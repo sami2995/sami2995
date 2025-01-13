@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sami2995/sami2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samiyas Solomon (GitHub username: `sami2995`), a passionate developer!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💼 Skills
+- Programming: Python, JavaScript, C++
+- Web Development: HTML, CSS, React
+- Databases: MySQL
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/samiyas-solomon-8a70b5264/)
+- [Portfolio](https://yourwebsite.com)
+
