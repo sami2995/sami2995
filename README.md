@@ -13,5 +13,5 @@ I'm Samiyas Solomon (GitHub username: `sami2995`), a passionate developer!
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/samiyas-solomon-8a70b5264/)
-- [Portfolio](https://yourwebsite.com)
+- [Portfolio](https://sami2995.github.io/portfolio/)
 
