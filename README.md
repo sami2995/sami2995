@@ -7,7 +7,7 @@ I'm Samiyas Solomon (GitHub username: `sami2995`), a passionate developer!
 
 
 ## 💼 Skills
-- Programming: Python, JavaScript, C++
+- Programming: java, JavaScript, C++
 - Web Development: HTML, CSS, React
 - Databases: MySQL
 
