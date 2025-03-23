@@ -1,16 +1,25 @@
 # Hi there 👋  
 
-I'm **Samiyas Solomon**, a passionate developer eager to explore and innovate in the tech world!  
+I'm **Samiyas Solomon**, a passionate **Full Stack & MERN Stack Developer** eager to build and innovate in the tech world!  
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Computer Science**.  
-- 💡 Interested in **Web Development**.  
+- 💡 Interested in **Web Development, Backend Systems, and Databases**.  
 - 🎯 Always looking to improve my skills and contribute to open-source projects.  
 
-## 💼 Skills  
-- **Programming:** Java, JavaScript, C++  
-- **Web Development:** HTML, CSS, PHP  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
+## 💼 Tech Stack  
+### 💻 Programming Languages  
+- Java, JavaScript, C++  
+
+### 🌐 Web Development  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, PHP  
+
+### 🛢️ Databases  
+- MySQL, MongoDB, PostgreSQL  
+
+### 🔧 Tools & Technologies  
+- Git & GitHub, Docker, REST APIs, Firebase  
 
 ## 📊 GitHub Stats  
 ![Samiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami2995&show_icons=true&theme=tokyonight)  
