@@ -4,7 +4,7 @@ I'm **Samiyas Solomon**, a passionate **Full Stack & MERN Stack Developer** eage
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Computer Science**.  
-- 💡 Interested in **Web Development, Backend Systems, and Databases**.  
+- 💡 Interested in **Web Development**.  
 - 🎯 Always looking to improve my skills and contribute to open-source projects.  
 
 ## 💼 Tech Stack  
@@ -19,7 +19,7 @@ I'm **Samiyas Solomon**, a passionate **Full Stack & MERN Stack Developer** eage
 - MySQL, MongoDB, PostgreSQL  
 
 ### 🔧 Tools & Technologies  
-- Git & GitHub, Docker, REST APIs, Firebase  
+- Git & GitHub
 
 ## 📊 GitHub Stats  
 ![Samiyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami2995&show_icons=true&theme=tokyonight)  
