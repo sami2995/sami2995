@@ -13,6 +13,6 @@ I'm Samiyas Solomon , a passionate developer!
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/samiyas-solomon-8a70b5264/)
--  [Email](@samiyassolomon95@gmail.com)
+- 📧 Email: [samiyassolomon95@gmail.com](mailto:samiyassolomon95@gmail.com)
 - [Portfolio](https://sami2995.github.io/portfolio/)
 
