@@ -4,7 +4,7 @@ I'm **Samiyas Solomon**, a passionate developer eager to explore and innovate in
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Computer Science**.  
-- 💡 Interested in **Web Development, Backend Systems, and Databases**.  
+- 💡 Interested in **Web Development**.  
 - 🎯 Always looking to improve my skills and contribute to open-source projects.  
 
 ## 💼 Skills  
